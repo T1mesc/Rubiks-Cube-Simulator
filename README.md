@@ -5,4 +5,4 @@ Current Functions:
 * Button "Empty" for initialization
 * Button "Full" for a completed cube
 * 6 Buttons for adding different colors
-* Button "Copyright"
+* Button "Info"
