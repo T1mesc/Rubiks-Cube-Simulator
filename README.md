@@ -8,3 +8,7 @@ Current Functions:
 * Number of each color could be added up to 8 times
 * Color of any available cell could be covered
 * Button "Info"
+
+* Added functions of 36 basic rotations
+* Added Cube Scramble Generator (Random 25 Steps)
+* Improved structures
